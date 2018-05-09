@@ -58,3 +58,6 @@ header.startup h1 {
   cursor: pointer;
 }
 
+.alCentar {
+  text-align: center;
+}
